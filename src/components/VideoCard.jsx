@@ -49,10 +49,11 @@ export default function VideoCard({
         >
           <Typography variant="subtitle2" fontWeight="bold" color="gray">
             {snippet?.channelTitle || demoChannelTitle}
-            <CheckCircle sx={{ fontSize: 12, color: "gray", ml: "5px" }} />
+            <CheckCircle sx={{ fontSize: "12px", color: "gray", ml: "5px" }} />
           </Typography>
         </Link>
       </CardContent>
     </Card>
   );
 }
+
