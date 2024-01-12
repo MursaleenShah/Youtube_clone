@@ -4,9 +4,9 @@ This project is a YouTube clone developed with React.js and styled using Materia
 ![Homepage screenshot](images/Screenshot%20(147).png)
 
 # Features
-1. Search Videos: Utilize the YouTube API to search for videos.
-2. Material Design: A modern and visually appealing user interface crafted with Material-UI components for a consistent and polished look.
-3. Responsive Design: Ensure an optimal viewing experience across various screen sizes and devices. 
+1. **Search Videos:** Utilize the YouTube API to search for videos.
+2. **Material Design:** A modern and visually appealing user interface crafted with Material-UI components for a consistent and polished look.
+3. **Responsive Design:** Ensure an optimal viewing experience across various screen sizes and devices. 
 
 # Installation
 1. Clone the repository.
